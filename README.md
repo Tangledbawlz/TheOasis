@@ -9,7 +9,7 @@ species from folklore and fairy tales. The user is a part of a secret military t
 protecting the city from treason, and terrorists. The user is trying to gain information about the
 individual(s) who are trying to overthrow the government.
 
-[Youtube Video]()
+[Youtube Video](https://youtu.be/kXNXcAFXOtE)
 
 # Software
 In this project, I used simple "if" statements and prompted the user to pick
